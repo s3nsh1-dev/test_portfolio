@@ -1,4 +1,17 @@
-# This is the submition project of coursera Advance React course
+# 📘 Coursera Advanced React Project – Propfolio
 
-# How the site looks
-![image](https://github.com/user-attachments/assets/75470cb3-bb21-4bfe-84b2-2c790e1886c0)
+This is the submission project for the **Advanced React** course on Coursera.
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React** – Library for building the UI
+- ⚡ **Vite** – Fast build tool and dev server
+- 🎨 **Tailwind CSS** – Utility-first CSS framework for styling
+
+---
+
+## 📷 How the App Looks
+
+![image](https://github.com/user-attachments/assets/1841ce94-a6bd-4cc3-a47a-01fd286463c1)
