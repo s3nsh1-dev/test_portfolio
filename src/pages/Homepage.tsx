@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 
 const Homepage = () => {
   return (
-    <div className="mx-[23.5%]">
+    <div className="px-[23.5%]">
       <Navbar />
       <HeroSection />
       <CardContainer />

@@ -24,7 +24,7 @@ const HeroSection = () => {
         />
         <h2 className="font-bold">Hello, I am Shubham!</h2>
       </div>
-      <h1 className="font-bold text-5xl w-[60vw] text-wrap">
+      <h1 className="font-bold text-5xl w-[30vw] text-wrap">
         A frontend developer specialized in React
       </h1>
     </div>

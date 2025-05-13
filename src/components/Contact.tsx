@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     <div className="bg-purple-800 h-[1000px] text-white flex flex-col ">
-      <div className=" flex flex-col w-[70vw] m-auto gap-4">
+      <div className=" flex flex-col w-[30vw] m-auto gap-4">
         <h1 className="text-2xl font-bold">Contact me</h1>
         <div>
           <label htmlFor="name">Name</label>
