@@ -1,5 +1,15 @@
+import Navbar from "../components/Navbar";
+import HeroSection from "../components/HeroSection";
+import CardContainer from "../components/CardContainer";
+
 const Homepage = () => {
-  return <div>Homepage</div>;
+  return (
+    <>
+      <Navbar />
+      <HeroSection />
+      <CardContainer />
+    </>
+  );
 };
 
 export default Homepage;
